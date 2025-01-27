@@ -39,14 +39,14 @@ Each button is linked to a corresponding action that opens a new GUI frame to ha
 
 
 ## Usage
-Launch the application.
-Use the buttons on the home screen to perform the following actions:
-Fetch all employees.
-Fetch an employee by ID.
-Delete an employee.
-Update employee details.
-Onboard a new employee.
-View the results or interact with the database through the user-friendly interface.
+-Launch the application.
+-Use the buttons on the home screen to perform the following actions:
+-Fetch all employees.
+-Fetch an employee by ID.
+-Delete an employee.
+-Update employee details.
+-Onboard a new employee.
+-View the results or interact with the database through the user-friendly interface.
 
 ## License
 This project is licensed under the MIT License.
