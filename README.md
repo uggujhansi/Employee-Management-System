@@ -36,3 +36,14 @@ Each button is linked to a corresponding action that opens a new GUI frame to ha
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/employee-management-system.git
+
+
+## Usage
+- **Launch the application.**
+- **Use the buttons on the home screen to perform the following actions:
+- **Fetch all employees.
+- **Fetch an employee by ID.
+- **Delete an employee.
+- **Update employee details.
+- **Onboard a new employee.
+- **View the results or interact with the database through the user-friendly interface.
